@@ -38,6 +38,30 @@ This repository contains an exploratory data analysis (EDA) of Airbnb listings, 
 
 5. Run the notebook cells to explore insights.
 
+## Data Visualizations
+
+- **Average listing price by Neighbourhood**
+
+![Average listing price by Neighbourhood](DataVisualizations/listingprice_neigbourhood.png)
+
+- **Average listing price by Accommodations**
+
+![Average listing price by Accommodations](DataVisualizations/listingprice_accommodations.png)
+
+- **New airbnb hosts over time**
+
+![New airbnb hosts over time](DataVisualizations/newhosts_overtime.png)
+
+- **Average airbnb price over time**
+
+![Average airbnb price over time](DataVisualizations/airbnb_Price_overtime.png)
+
+- **Comparative visuals according to the 2015 regulations**
+
+![Comparative visuals according to the 2015 regulations](DataVisualizations/comparative_visual.png)
+
+
+
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository, submit issues, or create pull requests to improve the analysis.
