@@ -15,6 +15,9 @@ This repository contains an exploratory data analysis (EDA) of Airbnb listings, 
 - Pandas for data manipulation
 - Matplotlib & Seaborn for visualization
 
+## Dataset Source
+- Source: [Kaggle Link](https://www.kaggle.com/datasets/auswalld/airbnb-listing-analysis-dataset)
+
 ## Installation & Usage
 1. Clone the repository:
     ```bash
