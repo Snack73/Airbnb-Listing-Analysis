@@ -1,7 +1,7 @@
 # **Airbnb Listing Analysis**
 
 ## Overview
-This repository contains an exploratory data analysis (EDA) of Airbnb listings, utilizing Python libraries such as Pandas, Matplotlib, and Seaborn. The analysis aims to extract meaningful insights regarding pricing trends, availability, and other key factors affecting Airbnb listings.
+This repository contains an exploratory data analysis (EDA) of **28000+ Airbnb listings**, utilizing Python libraries such as Pandas, Matplotlib, and Seaborn. The analysis aims to extract meaningful insights regarding pricing trends, availability, and other key factors affecting Airbnb listings. 
 
 ## Features
 - Price Distribution Analysis: Understand how prices vary across different locations.
